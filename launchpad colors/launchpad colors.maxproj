@@ -1,9 +1,9 @@
 {
-	"name" : "New Project",
+	"name" : "launchpad colors",
 	"version" : 1,
 	"creationdate" : 3671448002,
-	"modificationdate" : 3671448013,
-	"viewrect" : [ 0.0, 59.0, 1680.0, 957.0 ],
+	"modificationdate" : 3671454281,
+	"viewrect" : [ 840.0, 79.0, 840.0, 937.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -13,32 +13,27 @@
 			"launchpad colors.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
-				"toplevel" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/launchpad-colors",
-					"projectrelativepath" : ".."
-				}
-
-			}
-,
-			"build-color-table.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/launchpad-colors",
-					"projectrelativepath" : ".."
-				}
-
+				"toplevel" : 1
 			}
 ,
 			"select-by-symbol.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/launchpad-colors",
-					"projectrelativepath" : ".."
-				}
-
+				"local" : 1
+			}
+,
+			"build-color-table.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"color-picker-demo.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"color-panel.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
