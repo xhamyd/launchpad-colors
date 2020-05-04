@@ -1,2 +1,4 @@
 
 ~$launchpad diagram.xlsx
+*.xlsx#
+.DS_Store
