@@ -2,7 +2,7 @@
 	"name" : "launchpad colors",
 	"version" : 1,
 	"creationdate" : 3671448002,
-	"modificationdate" : 3671454281,
+	"modificationdate" : 3671522396,
 	"viewrect" : [ 840.0, 79.0, 840.0, 937.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"color-panel.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"select-by-symbol.maxpat" : 			{
@@ -31,8 +36,8 @@
 				"local" : 1
 			}
 ,
-			"color-panel.maxpat" : 			{
-				"kind" : "patcher",
+			"launchpad-simulator.amxd" : 			{
+				"kind" : "maxforlive",
 				"local" : 1
 			}
 
@@ -48,7 +53,7 @@
 
 	}
 ,
-	"detailsvisible" : 0,
+	"detailsvisible" : 1,
 	"amxdtype" : 1633771873,
 	"readonly" : 0,
 	"devpathtype" : 0,
